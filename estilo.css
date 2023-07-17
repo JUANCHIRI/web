@@ -16,7 +16,13 @@
     background-repeat: no-repeat;
     
     }
+    .fondotecnologia{
     
+        background-image: url("tornado.jpg");
+        
+        background-repeat: no-repeat;
+        
+        }
     
     
     .img{
@@ -63,3 +69,54 @@
     
     }
     
+
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imajensociales{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("sociales.jpg");
+        
+        }
+        
+        
+        
+        .textosociales{
+        
+        text-align: justify;
+        
+        color: rgb(15, 59, 35);
+        
+        font-size: 20px;
+        
+        
+        
+        }
+        

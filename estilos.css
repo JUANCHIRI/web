@@ -19,9 +19,9 @@
     
     .fondotecnologia{
     
-        background-image: url("tornado.jpg");
+        background-image: url("tecnologia\ 2.gif");
         
-        background-repeat: no-repeat;
+        background-repeat: repeat;
         
         }
     
@@ -43,7 +43,7 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("fondo.jpg");
     
     }
     
@@ -161,7 +161,7 @@
             
             text-align: justify;
             
-            color: rgb(0, 0, 0);
+            color: rgb(255, 255, 255);
             
             font-size: 20px;
             
@@ -272,7 +272,7 @@
                         
                         position: absolute;
                         
-                        top: 250px;
+                        top: 300px;
                         
                          
                         
@@ -313,7 +313,58 @@
                         
                         
                         }
-                        
+
+                        .contenido{
+
+                            height: 280px;
+                            
+                            width: 100%;
+                            
+                            position: absolute;
+                            
+                            top: 300px;
+                            
+                             
+                            
+                            }
+                            
+                             
+                            
+                        .imagentecnologia{
+                            
+                             
+                            
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 200px;
+                            
+                            width: 260px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url("tecnologia.png");
+
+                            
+                            }
+                            
+                            
+                            
+                        .textotecnologia{
+                            
+                            text-align: justify;
+                            
+                            color: rgb(0, 255, 21);
+                            
+                            font-size: 20px;
+                            
+                            
+                            
+                            }
+                            
                 
             
         

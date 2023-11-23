@@ -137,56 +137,32 @@
             
             .imajenbiologia{
             
-             
             
             background-repeat: no-repeat;
             
             float:left;
             
-            height: 283px;
+            height: 745px;
             
-            width: 480px;
+            width: 1007px;
             
-            margin-left: 5px;
+            margin-left: 2px;
             
-            margin-right:5px;
+            margin-right:2px;
             
-            background-image: url("imajenbiologia.jpeg");
+            background-image: url("imajenbiologia.jpg");
             
         
         }
 
-        .imajenbiologia2{
-            
              
-            
-            background-repeat: no-repeat;
-            
-            float:left;
-            
-            height: 135px;
-            
-            width: 350px;
-            
-            margin-left: 5px;
-            
-            margin-right:5px;
-            
-            background-image: url("imajenbiologia2.webp");
-            
-        
-        }
-
-            
-            
-            
             .textobiologia{
             
             text-align: justify;
             
-            color: rgb(255, 255, 255);
+            color: aliceblue;
             
-            font-size: 20px;
+            font-size: 25px;
             
             
             
@@ -353,9 +329,9 @@
                         
                         float:left;
                         
-                        height: 290px;
+                        height: 375px;
                         
-                        width: 300px;
+                        width: 678px;
                         
                         margin-left: 5px;
                         
@@ -373,9 +349,9 @@
                         
                         float:left;
                         
-                        height: 514px;
+                        height: 555px;
                         
-                        width: 843px;
+                        width: 735px;
                         
                         margin-left: 1px;
                         
@@ -395,7 +371,7 @@
                         
                         height: 675px;
                         
-                        width: 725px;
+                        width: 560px;
                         
                         margin-left: 1px;
                         
@@ -415,13 +391,13 @@
                         
                         height: 330px;
                         
-                        width: 725px;
+                        width: 300px;
                         
                         margin-left: 1px;
                         
                         margin-right:1px;
                         
-                        background-image: url("imajeningles6.jpg");
+                        background-image: url("imajeningles6.webp");
                         
                     }
 
@@ -433,15 +409,15 @@
                         
                         float:left;
                         
-                        height: 760px;
+                        height: 300px;
                         
-                        width: 760px;
+                        width: 510px;
                         
                         margin-left: 1px;
                         
                         margin-right:1px;
                         
-                        background-image: url("imajeningles7.png");
+                        background-image: url("imajeningles7.jpg");
                         
                     }
 
@@ -453,9 +429,9 @@
                         
                         float:left;
                         
-                        height: 605px;
+                        height: 310px;
                         
-                        width: 605px;
+                        width: 570px;
                         
                         margin-left: 1px;
                         

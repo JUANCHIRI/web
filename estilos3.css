@@ -13,13 +13,13 @@
     
     background-image: url("fondo.jpg");
     
-    background-repeat: repeat-y;
+    background-repeat: repeat;
     
     }
     
     .fondotecnologia{
     
-        background-image: url("tecnologia\ 2.gif");
+        background-image: url("");
         
         background-repeat: repeat;
         
@@ -94,15 +94,15 @@
         
         float:left;
         
-        height: 200px;
+        height: 1110px;
         
-        width: 260px;
+        width: 630px;
         
-        margin-left: 5px;
+        margin-left: 1px;
         
-        margin-right:5px;
+        margin-right:1px;
         
-        background-image: url("sociales.jpg");
+        background-image: url("imajensociales.jpg");
         
         }
         
@@ -112,7 +112,7 @@
         
         text-align: justify;
         
-        color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
         
         font-size: 20px;
         
@@ -127,7 +127,7 @@
             
             position: absolute;
             
-            top: 310px;
+            top: 320px;
             
              
             
@@ -135,7 +135,7 @@
             
              
             
-            .imagenbiologia{
+            .imajenbiologia{
             
              
             
@@ -143,17 +143,40 @@
             
             float:left;
             
-            height: 210px;
+            height: 283px;
             
-            width: 270px;
+            width: 480px;
             
             margin-left: 5px;
             
             margin-right:5px;
             
-            background-image: url("biologia.jpg");
+            background-image: url("imajenbiologia.jpeg");
             
-            }
+        
+        }
+
+        .imajenbiologia2{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 135px;
+            
+            width: 350px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("imajenbiologia2.webp");
+            
+        
+        }
+
             
             
             
@@ -184,7 +207,7 @@
                 
                  
                 
-                .imagenmatematicas{
+                .imajenmatematicas{
                 
                  
                 
@@ -192,15 +215,15 @@
                 
                 float:left;
                 
-                height: 200px;
+                height: 350px;
                 
-                width: 260px;
+                width: 460px;
                 
                 margin-left: 5px;
                 
                 margin-right:5px;
                 
-                background-image: url("matematicas.jpg");
+                background-image: url("imagenmatematicas.jpg");
                 
                 }
                 
@@ -209,7 +232,7 @@
                 
                 text-align: justify;
                 
-                color: rgb(122, 216, 93);
+                color: rgb(0, 0, 0);
                 
                 font-size: 25px;
                 
@@ -232,7 +255,7 @@
                     
                      
                     
-                .imagenreligion{
+                .imajenreligion{
                     
                      
                     
@@ -240,15 +263,15 @@
                     
                     float:left;
                     
-                    height: 800px;
+                    height: 200px;
                     
-                    width: 800px;
+                    width: 200px;
                     
                     margin-left: 10px;
                     
                     margin-right:10px;
                     
-                    background-image: url("religion.webp");
+                    background-image: url("");
                     
                     }
                     
@@ -260,7 +283,7 @@
                     
                     color: rgb(245, 0, 224);
                     
-                    font-size: 20px;
+                    font-size: 40px;
                     
                     }
 
@@ -280,7 +303,7 @@
                         
                          
                         
-                    .imageningles{
+                    .imajeningles{
                         
                          
                         
@@ -288,19 +311,160 @@
                         
                         float:left;
                         
-                        height: 200px;
+                        height: 350px;
                         
-                        width: 260px;
+                        width: 450px;
                         
                         margin-left: 5px;
                         
                         margin-right:5px;
                         
-                        background-image: url("ingles.jpg");
+                        background-image: url("imajeningles.jpg");
                         
-                        }
+                      
+                    
+                    }
+
+                    .imajeningles2{
                         
+                         
                         
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 345px;
+                        
+                        width: 240px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("imajeningles2.jpg");
+                        
+                    }
+
+                    .imajeningles3{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 290px;
+                        
+                        width: 300px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("imajeningles3.jpg");
+                        
+                    }
+
+                    .imajeningles4{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 514px;
+                        
+                        width: 843px;
+                        
+                        margin-left: 1px;
+                        
+                        margin-right:1px;
+                        
+                        background-image: url("imajeningles4.jpg");
+                        
+                    }
+
+                    .imajeningles5{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 675px;
+                        
+                        width: 725px;
+                        
+                        margin-left: 1px;
+                        
+                        margin-right:1px;
+                        
+                        background-image: url("imajeningles5.jpg");
+                        
+                    }
+
+                    .imajeningles6{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 330px;
+                        
+                        width: 725px;
+                        
+                        margin-left: 1px;
+                        
+                        margin-right:1px;
+                        
+                        background-image: url("imajeningles6.jpg");
+                        
+                    }
+
+                    .imajeningles7{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 760px;
+                        
+                        width: 760px;
+                        
+                        margin-left: 1px;
+                        
+                        margin-right:1px;
+                        
+                        background-image: url("imajeningles7.png");
+                        
+                    }
+
+                    .imajeningles8{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 605px;
+                        
+                        width: 605px;
+                        
+                        margin-left: 1px;
+                        
+                        margin-right:1px;
+                        
+                        background-image: url("imajeningles8.jpg");
+                        
+                    }
+
                         
                     .textoingles{
                         
@@ -330,7 +494,7 @@
                             
                              
                             
-                        .imagentecnologia{
+                        .imajentecnologia{
                             
                              
                             
@@ -338,29 +502,30 @@
                             
                             float:left;
                             
-                            height: 200px;
+                            height: 500px;
                             
-                            width: 260px;
+                            width: 570px;
                             
                             margin-left: 5px;
                             
                             margin-right:5px;
                             
-                            background-image: url("tecnologia.png");
+                            background-image: url("imagentecnologia.jpg");
 
                             
                             }
                             
                             
                             
-                        .textotecnologia{
+.textotecnologia{
+ text-align: justify;
+
+ color: rgb(0, 255, 21);
                             
-                            text-align: justify;
-                            
-                            color: rgb(0, 255, 21);
-                            
-                            font-size: 20px;
-                            
+font-size: 20px;
                             
                             
-                            }
+                            
+ }
+                            
+ 

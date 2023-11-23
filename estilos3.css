@@ -142,13 +142,13 @@
             
             float:left;
             
-            height: 745px;
+            height: 700px;
             
-            width: 1007px;
+            width: 970px;
             
-            margin-left: 2px;
+            margin-left: 1px;
             
-            margin-right:2px;
+            margin-right:1px;
             
             background-image: url("imajenbiologia.jpg");
             
@@ -478,15 +478,15 @@
                             
                             float:left;
                             
-                            height: 500px;
+                            height: 215px;
                             
-                            width: 570px;
+                            width: 350px;
                             
                             margin-left: 5px;
                             
                             margin-right:5px;
                             
-                            background-image: url("imagentecnologia.jpg");
+                            background-image: url("imajentecnologia.jpg");
 
                             
                             }
@@ -496,7 +496,7 @@
 .textotecnologia{
  text-align: justify;
 
- color: rgb(0, 255, 21);
+ color: rgb(255, 255, 255);
                             
 font-size: 20px;
                             
